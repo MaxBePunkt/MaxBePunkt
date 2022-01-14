@@ -8,8 +8,8 @@
 
 <h3 align="left">Projects</h3>
 <p align="left">
-  Free to Game Project: 
-<a href="https://free2game.netlify.app/" target="blank"></a>
+ 
+<a href="https://free2game.netlify.app/" target="blank">FreeToGame</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
